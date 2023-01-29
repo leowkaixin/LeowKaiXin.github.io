@@ -2934,7 +2934,7 @@ input, select, textarea {
 		}
 
 		header > p {
-			font-style: italic;
+			font-style: none;
 		}
 
 		header > h1 + p {
